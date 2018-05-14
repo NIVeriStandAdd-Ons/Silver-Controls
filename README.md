@@ -1,3 +1,5 @@
+**NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
+
 ## Silver Workspace Controls ##
 
 **Silver Workspace Controls** allows you to add silver controls and indicators found in LabVIEW as workspace objects in NI VeriStand.
